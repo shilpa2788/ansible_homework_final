@@ -1,0 +1,3 @@
+workstation ansible_host=workstation-1432.rhpds.opentlc.com
+[database]
+10.10.10.7
